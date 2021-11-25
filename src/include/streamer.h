@@ -1,0 +1,1 @@
+#define STREAM_BREAKER std::cout << "------------------------------" << std::endl
